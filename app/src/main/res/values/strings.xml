@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="title_activity_main">Weather App</string>
+    <string name="error_internet_msg">Oops!\n That doesn\'t seem to be a recognized city name. Please try again or check for typos.</string>
+<string name="suggestion_search">"Welcome to the Weather App! \n"
+               "Just type in a city or country name to see the weather forecast."</string>
+</resources>
