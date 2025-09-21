@@ -45,8 +45,8 @@ weatherapp/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/weatherapp.git
-cd weatherapp
+git clone https://github.com/MohammedShoaeb/WeatherApp.git
+cd WeatherApp
 ```
 
 ### 2. Add your API key
